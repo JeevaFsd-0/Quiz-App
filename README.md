@@ -1,3 +1,20 @@
+# React Quiz App
+
+## In this quiz project adding some questions
+
+![quiz](https://github.com/JeevaFsd-0/React-Quiz-App/assets/145536938/adc5ee8b-c464-4f8e-b203-b464546cdbad)
+
+![quiz2](https://github.com/JeevaFsd-0/React-Quiz-App/assets/145536938/56b80be1-c3f5-4b9b-81cc-d09e9dfd82f5)
+
+![quiz3](https://github.com/JeevaFsd-0/React-Quiz-App/assets/145536938/8133ee1e-1df5-4f3a-80b5-4655c744448a)
+
+![quiz4](https://github.com/JeevaFsd-0/React-Quiz-App/assets/145536938/810544c1-880f-4231-802a-52857605cdcf)
+
+## Your Score and Restart Available
+
+![quiz5](https://github.com/JeevaFsd-0/React-Quiz-App/assets/145536938/2b617e14-5832-4564-a255-1b79674cfaf4)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
